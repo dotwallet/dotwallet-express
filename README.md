@@ -37,3 +37,10 @@ app.post('/create-order', async (req, res) => {
 ## Examples
 
 See the examples folder in the package in the `examples/simple-store/src/index.js` file.
+
+## Dev build
+
+```bash
+npm i
+npm run build
+```
