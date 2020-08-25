@@ -1,6 +1,6 @@
 {
   "name": "dotwallet-express-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple app with a store, to get familiar with DotWallet",
   "main": "src/index.js",
   "scripts": {
